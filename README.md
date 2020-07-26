@@ -10,7 +10,15 @@
   <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
 </p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=hugoroca&show_icons=true)
+<div align="center">
+  ![github stats](https://github-readme-stats.vercel.app/api?username=hugoroca&show_icons=true)
+  
+  **📫 Reach me at:**<br>
+
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HuugooRoca)](https://twitter.com/HuugooRoca)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugoroca/)](https://www.linkedin.com/in/hugoroca/)
+
+</div>
 
 <!--
 **HugoRoca/HugoRoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
