@@ -6,7 +6,7 @@
     Hello there. I'm <a href="https://medium.com/@hugo.roca">Hugo</a>.<br> I'm a FullStack Developer from Perú.
     <br>
     <br>
-    <b>#nodejs #javascript #typescript #react #mongo #elasticsearch #lambda #firebase #event-driven #microservices</b>
+    <b>#nodejs #javascript #typescript #react #mongo #elasticsearch #lambda #event-driven #microservices</b>
   </samp>
   <br>
   <br>
@@ -19,6 +19,7 @@
   
   ![github stats](https://github-readme-stats.vercel.app/api?username=hugoroca&show_icons=true)
   
+  **🌱 I’m currently learning: Firebase
   **📫 Reach me at:**<br>
 
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HuugooRoca)](https://twitter.com/HuugooRoca)
