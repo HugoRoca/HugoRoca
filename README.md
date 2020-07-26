@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://selimdoyranli.com">Hugo</a>.<br> I'm a FullStack Developer from Perú.<br><br>#nodejs, #typescript, #react, #mongo #awsLambda #elasticsearch</samp>
+  <samp>Hello there. I'm <a href="https://medium.com/@hugo.roca">Hugo</a>.<br> I'm a FullStack Developer from Perú.<br><br><b>#nodejs, #typescript, #react, #mongo, #lambdaAWS #elasticsearch</b></samp>
   <br>
   <br>
   <br>
