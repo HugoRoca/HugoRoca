@@ -9,9 +9,8 @@
   <br>
   <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
 </p>
-
+![github stats](https://github-readme-stats.vercel.app/api?username=hugoroca&show_icons=true)
 <div align="center">
-  ![github stats](https://github-readme-stats.vercel.app/api?username=hugoroca&show_icons=true)
   
   **📫 Reach me at:**<br>
 
