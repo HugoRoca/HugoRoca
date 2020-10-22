@@ -17,8 +17,6 @@
 
 <div align="center">
   
-  ![github stats](https://github-readme-stats.vercel.app/api?username=hugoroca&show_icons=true)
-  
   **🌱 I’m currently learning: Firebase**<br>
   **📫 Reach me at:**<br>
 
