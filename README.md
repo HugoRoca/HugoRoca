@@ -3,7 +3,7 @@
   <br>
   <br>
   <samp>
-    Hello there. I'm <a href="https://medium.com/@hugo.roca">Hugo</a>.<br> I'm a FullStack Developer from Perú.
+    Hello there. I'm <a href="https://medium.com/@hugo.roca">Hugo</a>.<br> I'm a Backend Developer from Perú.
     <br>
     <br>
     <b>#nodejs #javascript #typescript #react #mongo #elasticsearch #lambda #event-driven #microservices</b>
