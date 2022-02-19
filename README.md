@@ -17,7 +17,7 @@
 
 <div align="center">
   
-  **🌱 I’m currently learning: Python**<br>
+  **🌱 I’m currently learning: Python a& Django**<br>
   **📫 Reach me at:**<br>
 
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HuugooRoca)](https://twitter.com/HuugooRoca)
