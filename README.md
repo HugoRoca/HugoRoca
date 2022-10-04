@@ -8,7 +8,7 @@
     <br>
   </samp>
 </p>
-<div>
+<div align="center">
  💻 Tech Stack:
 
  
