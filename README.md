@@ -8,16 +8,14 @@
     <br>
   </samp>
 </p>
-<div align="center">
+<div>
  💻 Tech Stack:
 
  
   [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)]
-</div> 
-<div align="center">
- <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
-</div>  
-<div align="center">  
+  <br>
+  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
+  <br>
   **🌱 I’m currently learning: Python a& Django**<br>
   **📫 Reach me at:**<br>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugoroca) 
