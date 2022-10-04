@@ -9,14 +9,14 @@
   </samp>
 </p>
 <div align="center">
- [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)]
+ 💻 Tech Stack:
 </div> 
+ [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)]
+
 <div align="center">
-  <p>💻 Tech Stack:</p>
  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
 </div>  
-<div align="center">
-  
+<div align="center">  
   **🌱 I’m currently learning: Python a& Django**<br>
   **📫 Reach me at:**<br>
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)]
