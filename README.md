@@ -10,18 +10,20 @@
 </p>
 <div align="center">
  💻 Tech Stack:
-</div> 
- [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)]
 
+ 
+  [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)]
+</div> 
 <div align="center">
  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
 </div>  
 <div align="center">  
   **🌱 I’m currently learning: Python a& Django**<br>
   **📫 Reach me at:**<br>
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)]
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugoroca) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hugo.roca) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HuugooRoca) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCn2mk7K2l0wTdLLsNW17UOg) 
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugoroca) 
+  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hugo.roca) 
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HuugooRoca) 
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCn2mk7K2l0wTdLLsNW17UOg) 
 </div>
 
 <!--
