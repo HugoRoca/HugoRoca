@@ -7,7 +7,7 @@
 </p>
 
 <div align="center" width="100%">
-  💻<b>Tech Stack:</b><br><br>
+  💻<samp><b>Tech Stack:</b></samp><br><br>
   
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) 
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
@@ -48,8 +48,9 @@
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) 
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
   <br><br>
+  <samp>
   🌱 <b>I’m currently learning: Python & Django</b><br>
-  📫 <b>Reach me at:</b><br><br>
+    📫 <b>Reach me at:</b></samp><br><br>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugoroca) 
   [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hugo.roca) 
