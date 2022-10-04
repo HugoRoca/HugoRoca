@@ -6,9 +6,9 @@
     Hello there. I'm <a href="https://medium.com/@hugo.roca">Hugo</a>.<br> I'm a Senior Software Engineer from Perú.
     <br>
     <br>
-    <b>
+
     ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
-    </b>
+
   </samp>
   <br>
   <br>
