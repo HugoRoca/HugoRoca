@@ -6,18 +6,15 @@
     Hello there. I'm <a href="https://medium.com/@hugo.roca">Hugo</a>.<br> I'm a Senior Software Engineer from Perú.
     <br>
     <br>
-
-    
-
   </samp>
-  [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)]
   <br>
   <br>
   <br>
   <br>
-  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
 </p>
-
+<div align="center">
+ <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
+</div>  
 <div align="center">
   
   **🌱 I’m currently learning: Python a& Django**<br>
