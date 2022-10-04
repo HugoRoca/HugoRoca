@@ -3,16 +3,16 @@
   <br>
   <br>
   <samp>
-    Hello there. I'm <a href="https://medium.com/@hugo.roca">Hugo</a>.<br> I'm a <b>Senior Software Engineer</b> from Perú.
+    Hello there. I'm <a href="https://medium.com/@hugo.roca">Hugo</a>.<br> I'm a **Senior Software Engineer** from Perú.
     <br>
     <br>
   </samp>
 </p>
 <div align="center">
- 💻 Tech Stack:
+ 💻 **Tech Stack:**
 
  
-  [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)]
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
   <br>
   <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
   <br>
